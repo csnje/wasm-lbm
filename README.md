@@ -1,5 +1,9 @@
 # wasm-lbm
 
+> **WARNING!**
+> 
+> This project is impacted by the sunsetting of the [rustwasm](https://github.com/rustwasm) Github Organisation as described [here](https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/).
+
 ## About
 
 An implementation of the [Lattice Boltzmann method](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods) in **Rust** **WebAssembly**.
